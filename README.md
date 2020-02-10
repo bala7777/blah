@@ -1,1 +1,1 @@
-# x.o
+# x.o it is a tic tac toe game consists of x and o
